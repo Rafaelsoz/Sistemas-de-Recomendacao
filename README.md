@@ -1,7 +1,7 @@
 # Recomendação de Músicas com Multi-Armed Bandits (Epsilon-Greedy & UCB)
 
 Este repositório contém um projeto didátic, voltado para o Ensino Médio, a fim de explicar **como sistemas de recomendação aprendem** usando o problema de **Multi-Armed Bandits**.  
-A ideia é simular ou coletar interativamente o feedback do usuário em recomendações de **gêneros musicais**, comparando:
+A ideia é simular ou coletar iterativamente o feedback do usuário em recomendações de **gêneros musicais**, comparando:
 
 - **Epsilon-Greedy**
 - **UCB (Upper Confidence Bound)**
@@ -22,7 +22,7 @@ O app foi feito com **Streamlit** e inclui visualizações em **Plotly**.
   - **Proporção de recomendações por gênero**
   - **Média estimada de likes por gênero**
 
-### ✅ Modo 2 — Ao vivo com a turma
+### ✅ Modo 2 — Iterativo
 - A turma vira o ambiente: cada recomendação recebe um feedback:
   - 👍 gostei = 1
   - 👎 não gostei = 0
