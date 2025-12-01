@@ -1,4 +1,4 @@
-# Recomendação de Músicas com Multi-Armed Bandits (Epsilon-Greedy & UCB)
+# Recomendação de Músicas com Multi-Armed Bandits
 
 Este repositório contém um projeto didátic, voltado para o Ensino Médio, a fim de explicar **como sistemas de recomendação aprendem** usando o problema de **Multi-Armed Bandits**.  
 A ideia é simular ou coletar iterativamente o feedback do usuário em recomendações de **gêneros musicais**, comparando:
